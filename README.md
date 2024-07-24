@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saranga97" alt="saranga97" /></a> </p>
 
-- 🔭 I’m currently working on [Learning Management System](https://github.com/saranga97/OBE-based-Student-Management-System.git)
+- 🔭 I’m currently working on [Learning Management System](https://github.com/saranga97/gallery-cafe)
 
 - 🌱 I’m currently learning **AI Large Language Models**
 
