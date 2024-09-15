@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saranga97" alt="saranga97" /></a> </p>
 
-- 🔭 I’m currently working on [Learning Management System](https://github.com/saranga97/gallery-cafe)
-
 - 🌱 I’m currently learning **AI Large Language Models**
 
-- 👨‍💻 All of my projects are available at [https://saranganayanajith.vercel.app/](https://saranganayanajith.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sarangak.vercel.app/](https://sarangak.vercel.app/)
 
-- 📝 I regularly write articles on [https://www.buymeacoffee.com/saranganayanajith](https://www.buymeacoffee.com/saranganayanajith)
+- 📝 I regularly write articles on [https://medium.com/@saranga.karunasundara](https://medium.com/@saranga.karunasundara)
 
 - 💬 Ask me about **React,Angular,SpringBoot,NodeJS,SQL**
 
