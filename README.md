@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saranga Nayanajith Karunasundara</h1>
-<h3 align="center">A Software Engineering Undergraduate in Sri Lanka</h3>
+<h3 align="center">An AI oriented Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saranga97&label=Profile%20views&color=0e75b6&style=flat" alt="saranga97" /> </p>
 
